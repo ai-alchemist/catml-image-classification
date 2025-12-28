@@ -1,1 +1,1 @@
-This repo is for various useful programs that use TensorFlow for image classification and other tasks.
+This repo contains working up-to-date programs for training neural nets and using them to classify images.
