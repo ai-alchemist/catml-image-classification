@@ -12,7 +12,7 @@ It shows how to create a `Dataset` object from a directory containing folders (w
 
 The training data is augmented by applying random transformations to the images.
 
-The architecture of the neural net is explicitly laid out within the program.
+The architecture of the neural net is explicitly laid out within the program. The neural net supports classification of **any number** of classes.
 
 The neural net is trained, the model is saved, and a demo image is optionally classified.
 
